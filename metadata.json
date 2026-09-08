@@ -1,0 +1,6 @@
+{
+  "name": "SA3 Soundboard Studio",
+  "description": "AI sound FX soundboard with SA3 Small SFX model architecture, real-time waveform trimming, batch audio editing, pitch modulation, custom sample rates, and WAV export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
